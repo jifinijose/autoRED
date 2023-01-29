@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+  }
+  
+  input[type="file"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+  
